@@ -1,0 +1,31 @@
+.first-text{
+    padding: 10px;
+}
+.little-text{
+    color: orangered;
+}
+.btn-now{
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 10px ;
+    border-radius: 10px;
+    
+   
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border border-radius: 10px;
+}
+.cat{
+        text-align: center;
+        text-underline-position: below ;
+         color: orangered;
+}
+.new-image{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+     border-radius: 10px;
+    
+}
